@@ -9,3 +9,14 @@ int main;
 count roles [student[]]
 return 0;
 }}
+
+# include< iostream >
+  using main space std;
+}
+string admin;
+int x;
+int y;
+if[ admin=y];
+else 
+[admin=x]
+return o;
